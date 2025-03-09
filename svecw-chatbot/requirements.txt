@@ -1,0 +1,11 @@
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+faiss-cpu
+torch
+transformers
+langchain-huggingface
+sentence-transformers
+PyPDF2
+openpyxl
